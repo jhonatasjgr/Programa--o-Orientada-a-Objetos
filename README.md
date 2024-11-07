@@ -1,1 +1,1 @@
-# Materiais e resoluções de atividades para a disciplina de Programação Orientada a Objetos.
+# Materiais e soluções de atividades para a disciplina de Programação Orientada a Objetos.
